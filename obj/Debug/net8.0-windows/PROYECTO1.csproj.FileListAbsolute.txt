@@ -1,0 +1,107 @@
+C:\Users\tomas\source\repos\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\formulario_cliente.Cliente.resources
+C:\Users\tomas\source\repos\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\Proyecto.InicioSesion.resources
+C:\Users\tomas\source\repos\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\formulario_de_producto.Productos.resources
+C:\Users\tomas\source\repos\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.Properties.Resources.resources
+C:\Users\tomas\source\repos\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\ProyectoReportes.Reportes.resources
+C:\Users\tomas\source\repos\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\formulario_usuario.Usuarios.resources
+C:\Users\tomas\source\repos\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\ProyectoVentas.Ventas.resources
+C:\Users\tomas\source\repos\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.csproj.GenerateResource.cache
+C:\Users\tomas\source\repos\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\source\repos\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.AssemblyInfoInputs.cache
+C:\Users\tomas\source\repos\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.AssemblyInfo.cs
+C:\Users\tomas\source\repos\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.csproj.AssemblyReference.cache
+C:\Users\tomas\source\repos\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\PROYECTO1.exe
+C:\Users\tomas\source\repos\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\PROYECTO1.deps.json
+C:\Users\tomas\source\repos\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\PROYECTO1.runtimeconfig.json
+C:\Users\tomas\source\repos\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\PROYECTO1.dll
+C:\Users\tomas\source\repos\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\PROYECTO1.pdb
+C:\Users\tomas\source\repos\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\tomas\source\repos\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\tomas\source\repos\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\tomas\source\repos\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.csproj.Up2Date
+C:\Users\tomas\source\repos\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.dll
+C:\Users\tomas\source\repos\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\refint\PROYECTO1.dll
+C:\Users\tomas\source\repos\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.pdb
+C:\Users\tomas\source\repos\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.genruntimeconfig.cache
+C:\Users\tomas\source\repos\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\ref\PROYECTO1.dll
+C:\Users\tomas\source\repos\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.FBienvenida.resources
+C:\Users\tomas\source\repos\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.BackUp.resources
+C:\Users\tomas\source\repos\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\tomas\source\repos\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\tomas\source\repos\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\tomas\source\repos\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\tomas\source\repos\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\tomas\source\repos\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\car_a\OneDrive\Desktop\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.csproj.AssemblyReference.cache
+C:\Users\car_a\OneDrive\Desktop\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.dll
+C:\Users\car_a\OneDrive\Desktop\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\refint\PROYECTO1.dll
+C:\Users\car_a\OneDrive\Desktop\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.pdb
+C:\Users\car_a\OneDrive\Desktop\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\PROYECTO1.exe
+C:\Users\car_a\OneDrive\Desktop\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\PROYECTO1.deps.json
+C:\Users\car_a\OneDrive\Desktop\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\PROYECTO1.runtimeconfig.json
+C:\Users\car_a\OneDrive\Desktop\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\PROYECTO1.dll
+C:\Users\car_a\OneDrive\Desktop\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\PROYECTO1.pdb
+C:\Users\car_a\OneDrive\Desktop\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\car_a\OneDrive\Desktop\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\car_a\OneDrive\Desktop\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\car_a\OneDrive\Desktop\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\car_a\OneDrive\Desktop\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\car_a\OneDrive\Desktop\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\car_a\OneDrive\Desktop\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\car_a\OneDrive\Desktop\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\car_a\OneDrive\Desktop\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\car_a\OneDrive\Desktop\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.BackUp.resources
+C:\Users\car_a\OneDrive\Desktop\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.FBienvenida.resources
+C:\Users\car_a\OneDrive\Desktop\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\formulario_cliente.Cliente.resources
+C:\Users\car_a\OneDrive\Desktop\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\Proyecto.InicioSesion.resources
+C:\Users\car_a\OneDrive\Desktop\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\formulario_de_producto.Productos.resources
+C:\Users\car_a\OneDrive\Desktop\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.Properties.Resources.resources
+C:\Users\car_a\OneDrive\Desktop\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\ProyectoReportes.Reportes.resources
+C:\Users\car_a\OneDrive\Desktop\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\formulario_usuario.Usuarios.resources
+C:\Users\car_a\OneDrive\Desktop\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\ProyectoVentas.Ventas.resources
+C:\Users\car_a\OneDrive\Desktop\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.csproj.GenerateResource.cache
+C:\Users\car_a\OneDrive\Desktop\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\car_a\OneDrive\Desktop\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.AssemblyInfoInputs.cache
+C:\Users\car_a\OneDrive\Desktop\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.AssemblyInfo.cs
+C:\Users\car_a\OneDrive\Desktop\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.csproj.CoreCompileInputs.cache
+C:\Users\car_a\OneDrive\Desktop\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.csproj.Up2Date
+C:\Users\car_a\OneDrive\Desktop\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.genruntimeconfig.cache
+C:\Users\car_a\OneDrive\Desktop\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\ref\PROYECTO1.dll
+C:\Users\car_a\OneDrive\Desktop\proyecto taller2\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\PROYECTO1.exe
+C:\Users\car_a\OneDrive\Desktop\proyecto taller2\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\PROYECTO1.deps.json
+C:\Users\car_a\OneDrive\Desktop\proyecto taller2\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\PROYECTO1.runtimeconfig.json
+C:\Users\car_a\OneDrive\Desktop\proyecto taller2\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\PROYECTO1.dll
+C:\Users\car_a\OneDrive\Desktop\proyecto taller2\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\PROYECTO1.pdb
+C:\Users\car_a\OneDrive\Desktop\proyecto taller2\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\car_a\OneDrive\Desktop\proyecto taller2\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\car_a\OneDrive\Desktop\proyecto taller2\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\car_a\OneDrive\Desktop\proyecto taller2\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\car_a\OneDrive\Desktop\proyecto taller2\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\car_a\OneDrive\Desktop\proyecto taller2\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\car_a\OneDrive\Desktop\proyecto taller2\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\car_a\OneDrive\Desktop\proyecto taller2\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\car_a\OneDrive\Desktop\proyecto taller2\PROYECTO1\PROYECTO1\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\car_a\OneDrive\Desktop\proyecto taller2\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.csproj.AssemblyReference.cache
+C:\Users\car_a\OneDrive\Desktop\proyecto taller2\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.BackUp.resources
+C:\Users\car_a\OneDrive\Desktop\proyecto taller2\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.FBienvenida.resources
+C:\Users\car_a\OneDrive\Desktop\proyecto taller2\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\formulario_cliente.Cliente.resources
+C:\Users\car_a\OneDrive\Desktop\proyecto taller2\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\Proyecto.InicioSesion.resources
+C:\Users\car_a\OneDrive\Desktop\proyecto taller2\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\formulario_de_producto.Productos.resources
+C:\Users\car_a\OneDrive\Desktop\proyecto taller2\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.Properties.Resources.resources
+C:\Users\car_a\OneDrive\Desktop\proyecto taller2\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\ProyectoReportes.Reportes.resources
+C:\Users\car_a\OneDrive\Desktop\proyecto taller2\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\formulario_usuario.Usuarios.resources
+C:\Users\car_a\OneDrive\Desktop\proyecto taller2\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\ProyectoVentas.Ventas.resources
+C:\Users\car_a\OneDrive\Desktop\proyecto taller2\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.csproj.GenerateResource.cache
+C:\Users\car_a\OneDrive\Desktop\proyecto taller2\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\car_a\OneDrive\Desktop\proyecto taller2\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.AssemblyInfoInputs.cache
+C:\Users\car_a\OneDrive\Desktop\proyecto taller2\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.AssemblyInfo.cs
+C:\Users\car_a\OneDrive\Desktop\proyecto taller2\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.csproj.CoreCompileInputs.cache
+C:\Users\car_a\OneDrive\Desktop\proyecto taller2\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.csproj.Up2Date
+C:\Users\car_a\OneDrive\Desktop\proyecto taller2\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.dll
+C:\Users\car_a\OneDrive\Desktop\proyecto taller2\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\refint\PROYECTO1.dll
+C:\Users\car_a\OneDrive\Desktop\proyecto taller2\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.pdb
+C:\Users\car_a\OneDrive\Desktop\proyecto taller2\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.genruntimeconfig.cache
+C:\Users\car_a\OneDrive\Desktop\proyecto taller2\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\ref\PROYECTO1.dll
+C:\Users\car_a\OneDrive\Desktop\proyecto taller2\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.ReportesVista.resources
+C:\Users\car_a\OneDrive\Desktop\proyecto taller2\PROYECTO1\PROYECTO1\obj\Debug\net8.0-windows\PROYECTO1.ClienteNuevo.resources
